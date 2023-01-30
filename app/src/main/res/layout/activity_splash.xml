@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#018294"
+    android:gravity="center"
     tools:context=".Splash">
 
     <TextView
@@ -20,8 +21,9 @@
         android:layout_marginBottom="347dp"
         android:fontFamily="@font/itim"
         android:text="@string/the_elementals_inc"
-        android:textAlignment="center"
         android:textColor="#ffffff"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:textAlignment="center"
+        android:gravity="center"/>
 </RelativeLayout>

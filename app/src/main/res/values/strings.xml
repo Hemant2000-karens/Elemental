@@ -2,5 +2,9 @@
     <string name="app_name">Elemental</string>
     <string name="the_elementals_inc">The Elementals Inc.</string>
     <string name="todo">todo</string>
-    <string name="enter_your_phone">Enter Your Phone</string>
+    <string name="enter_your_phone">Enter Your Contact Number!</string>
+    <string name="letverify">Let \'s Get you verified</string>
+    <string name="factory_sup_tm_sup">Factory</string>
+    <string name="verify_continue"><![CDATA[Verify & Continue]]></string>
+    <string name="get_your_factory_automated_in_7_steps_n_diagnose_sensors_and_temperature">Get your Factory Automated in 7 steps \n Diagnose Sensors and Temperature</string>
 </resources>

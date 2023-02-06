@@ -7,4 +7,8 @@
     <string name="factory_sup_tm_sup">Factory</string>
     <string name="verify_continue"><![CDATA[Verify & Continue]]></string>
     <string name="get_your_factory_automated_in_7_steps_n_diagnose_sensors_and_temperature">Get your Factory Automated in 7 steps \n Diagnose Sensors and Temperature</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP ?</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
 </resources>

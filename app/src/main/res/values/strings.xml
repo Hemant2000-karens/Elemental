@@ -11,4 +11,9 @@
     <string name="enter_otp">Enter OTP</string>
     <string name="verify_otp">Verify OTP ?</string>
     <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="users_details">Users Details</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_Height">Enter Your Height</string>
+    <string name="enter_your_Weight">Enter Your Weight</string>
+    <string name="enter_your_DOB">Enter Your D.O.B</string>
 </resources>

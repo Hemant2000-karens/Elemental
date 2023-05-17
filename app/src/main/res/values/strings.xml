@@ -16,4 +16,9 @@
     <string name="enter_your_Height">Enter Your Height</string>
     <string name="enter_your_Weight">Enter Your Weight</string>
     <string name="enter_your_DOB">Enter Your D.O.B</string>
+    <string-array name="gender">
+        <item>Choose Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
 </resources>

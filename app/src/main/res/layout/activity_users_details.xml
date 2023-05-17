@@ -67,7 +67,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="50dp"
         android:layout_marginEnd="50dp"
-        android:layout_marginBottom="96dp"
+        android:layout_marginBottom="60dp"
         android:fontFamily="@font/cedarville_cursive"
         android:text="@string/factory_sup_tm_sup"
         android:textAlignment="center"
@@ -118,9 +118,10 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
     <Spinner
-        android:id="@+id/spinner"
+        android:textAlignment="center"
+        android:id="@+id/genderSpinner"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_marginStart="100dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="100dp"
